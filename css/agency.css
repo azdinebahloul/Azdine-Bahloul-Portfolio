@@ -57,6 +57,12 @@ section h3.section-subheading {
   }
 }
 
+@media (max-width: 767px) {
+  .landing-title {
+    text-align: center;
+  }
+}
+
 
 u {
   padding-bottom:3px;
